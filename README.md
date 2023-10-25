@@ -14,6 +14,6 @@ The dataset used in this project is named `toy_dataset.csv`. This dataset is pro
 
 ### Data Exploration
 
-For a detailed exploration of the dataset, refer to the Python script in this repository, where we apply Principal Component Analysis (PCA) to reduce the dimensionality of the data, making it more accessible and conducive to further analysis.
+For a detailed exploration of the dataset, refer to the Jupyter notebook in this repository, where we apply Principal Component Analysis (PCA) to reduce the dimensionality of the data, making it more accessible and conducive to further analysis.
 
 This project and dataset is inspired by a course on Coursera taught by Andrew Ng
